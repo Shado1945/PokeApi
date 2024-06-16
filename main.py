@@ -5,6 +5,10 @@
 # I also added test data loops to check necessary functionality on the program, please 
 # see the comments
 
+# If error occurs please run these two commands
+# pip install requests
+# pip install aiohttp
+
 import requests
 import asyncio
 import aiohttp
